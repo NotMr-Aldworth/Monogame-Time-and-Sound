@@ -35,6 +35,7 @@ namespace Monogame_Time_and_Sound
             IsMouseVisible = true;
         }
 
+
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
